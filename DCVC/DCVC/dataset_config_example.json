@@ -1,0 +1,12 @@
+{
+    "VCD": {
+        "base_path": "/media/data/vcd", 
+        "sequences": {
+            "video_0": {"frames":  223, "gop":  4},  
+            "video_1": {"frames":  301, "gop":  4},
+            "video_2": {"frames":  301, "gop":  4},
+            "video_3": {"frames":  300, "gop":  4},
+            "video_5": {"frames":  300, "gop":  4}
+        }
+    }
+}
